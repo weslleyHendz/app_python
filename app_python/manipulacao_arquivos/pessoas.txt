@@ -1,0 +1,3 @@
+Nome: maria, Idade:  45
+Nome: joao, Idade:  35
+Nome: carlo, Idade:  8
