@@ -1,2 +1,1 @@
-# app_python
-curso Cod3r
+Tutorial disponível em https://developer.mozilla.org/
